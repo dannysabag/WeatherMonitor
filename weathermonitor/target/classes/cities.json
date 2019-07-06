@@ -1,0 +1,27 @@
+[
+	{
+		"city_id": 2643743,
+		"city_name": "London",
+		"frequency": 20
+	},
+	{
+		"city_id": 293397,
+		"city_name": "Tel Aviv",
+		"frequency": 60
+	},
+	{
+		"city_id": 6355233,
+		"city_name": "Madrid",
+		"frequency": 10
+	},
+	{
+		"city_id": 4887398,
+		"city_name": "Chicago",
+		"frequency": 30
+	},
+	{
+		"city_id": 524901,
+		"city_name": "Moscow",
+		"frequency": 40
+	}
+]
